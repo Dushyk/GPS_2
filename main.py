@@ -1,4 +1,5 @@
 import flet as ft
+from flet import Geolocator
 
 
 async def main(page: ft.Page):
