@@ -1,4 +1,6 @@
 flet
+flet_geolocator
+flet_map
 shapely
 uvicorn
 fastapi
