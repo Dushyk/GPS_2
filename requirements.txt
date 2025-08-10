@@ -1,1 +1,4 @@
 flet
+shapely
+uvicorn
+fastapi
